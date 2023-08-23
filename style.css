@@ -29,6 +29,7 @@ td {
 }
 th {
   text-align: left;
+  max-width: 900px;
 }
 thead th {
   background-color: #55608f;

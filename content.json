@@ -4,20 +4,121 @@
     },
     {
         "actor": "Người anh",
-        "script": "Thưa cha mẹ",
-        "action": "",
-        "audioSrc": "./audio/quoc-ca-it.mp3"
+        "script": "Con lạy cha lạy mẹ, từ khi cha mẹ mất đi anh em chúng con luôn đùm bọc yêu thương lẫn nhau. Con đã phải thay cha mẹ nuôi dưỡng em, con ăn miếng cơm thì cũng phải cho em ăn bát cháo, uống miếng nước"
     },
     {
         "actor": "Người anh",
-        "script": "Thưa cha mẹ",
-        "action": "",
-        "audioSrc": "./audio/quoc-ca-it.mp3"
+        "script": "Nay chúng con đã lo cho em yên bề gia thất, xin phép cha mẹ cho chúng con phân chia ruộng vườn để anh em chúng con dễ làm ăn buôn bán"
     },
     {
         "actor": "Người anh",
-        "script": "Thưa cha mẹ",
-        "action": "",
-        "audioSrc": "./audio/quoc-ca-it.mp3"
+        "script": "Dạ vâng, sau khi chia gia tài xong, anh em chúng con vẫn “tắt lửa tối đèn” có nhau ạ"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Tắt lửa tối đèn để có mà nuôi chúng nó mãi à. Ông để yên cho tôi khấn"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Thôiiiii xong rồi, mình hạ cỗ mà ăn thôi ông"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Thôiiiii xong rồi, mình hạ cỗ mà ăn thôi ông"
+    },
+    {
+        "actor": "Người anh",
+        "script": "Ô sờ kê bà nó, chén thôi chén thôi"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Ăn nhanh lên, không chúng nó về bây giờ"
+    },
+    {
+        "header": "Cảnh 2: Cảnh 2: Vợ chồng người em đi làm đồng về"
+    },
+    {
+        "actor": "Người dẫn truyện",
+        "script": "Hai vợ chồng đang ngồi ăn nhồm nhoàm thì...."
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Thôi chết rồi ông ơi, chúng nó về rồi. Dọn nhanh lên ông, cất kín kín vào"
+    },
+    {
+        "actor": "Người dẫn truyện",
+        "script": "Hai vợ chồng người em lấm lem bùn đất, quần ống cao ống thấp đi về."
+    },
+    {
+        "actor": "Vợ chồng người em",
+        "script": "Vợ chồng em chào anh chị ạ !!!"
+    },
+    {
+        "actor": "Vợ chồng người anh",
+        "script": "Vâng không dám"
+    },
+    {
+        "actor": "Vợ người em",
+        "script": "Chúng em vừa đi ra đồng về ạ"
+    },
+    {
+        "actor": "Người anh",
+        "script": "Biết rồi, không làm lấy gì mà ăn"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Hzzz....Năm nay tình hình kinh tế khó khăn, cứ thế này đến cám cũng chẳng có mà ăn"
+    },
+    {
+        "actor": "Người anh",
+        "script": "Đúng rồi đấy, cơm nước chị mày nấu để dưới bếp kìa, chúng mày xuống đấy mà ăn"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Chết chết, nói thế thì chúng nó biết hết"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Ây chết, nãy anh chú nói nhầm thế nào, chị là cũng định làm cơm nước thịnh soạn chờ hai em đi đồng về đấy, mỗi tội lại quên mất không bật nồi cơm"
+    },
+    {
+        "actor": "Người em",
+        "script": "Dạ vâng không sao ạ, em cảm ơn anh chị đã có lòng chăm sóc ạ"
+    },
+    {
+        "actor": "Vợ người em",
+        "script": "Dạ, Chúng em cũng đã ăn mấy củ khoai ngoài ruộng cày rồi ạ"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Ái chà, chê cơm tôi nấu cơ đấy"
+    },
+    {
+        "actor": "Vợ người em",
+        "script": "Dạ, ấy chết, em không có ý đó thưa chị"
+    },
+    {
+        "actor": "Người anh",
+        "script": "Thôi được rồi, không ăn thì ngồi xuống đây anh nói chuyện"
+    },
+    {
+        "actor": "Người anh",
+        "script": "Vợ chồng chú cũng biết, kể từ khi cha mẹ mất đi, anh đã phải chăm sóc, chăm lo cho hai vợ chồng chú như thế nào. Thiết nghĩ bây giờ các em cũng có gia đình riêng, anh chị thấy hai đứa có thể ra ngoài ở riêng cho thoải mái. Phải không mẹ nó"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Đúng rồi hai cô chú ạ. Bây giờ 2 gia đình mà ở trong 1 ngôi nhà thì chật chội lắm, mà anh chị thì hay đau ốm "
+    },
+    {
+        "actor": "Người anh",
+        "script": "Anh chị tính thế này, ngôi nhà này anh chị sẽ ở để mà còn lo hương khói cho ông bà tổ tiên, vợ chồng cô chú thì dọn ra ngoài cho thoải mái"
+    },
+    {
+        "actor": "Vợ người anh",
+        "script": "Về đồ đạc trong nhà, chị tính thế này, anh chú là anh cả, tức là có chữ 'C'. Vị chi là tất cả những đồ đạc trong gia đình cứ có cái gì liên quan chữ 'C' thì anh chú lấy, còn lại là của hai vợ chồng cô chú hết"
+    },
+    {
+        "actor": "Người anh",
+        "script": "Chưa hiểu đúng không, bây giờ anh ví dụ như này cho dễ hiểu nhớ. Cái ao kia có chứ 'C' không"
     }
 ]

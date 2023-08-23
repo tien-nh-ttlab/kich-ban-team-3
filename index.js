@@ -24,7 +24,6 @@ for (const content of scriptContents) {
 
     const scriptElement = createHtmlTDElement(content.script);
 
-    const actionElement = createHtmlTDElement(content.action);
     const audioTableElement = document.createElement('td');
     if (content.audioSrc) {
         const audioElement = document.createElement('AUDIO');
@@ -35,7 +34,6 @@ for (const content of scriptContents) {
 
     element.appendChild(actorElement);
     element.appendChild(scriptElement);
-    element.appendChild(actionElement);
     if (content.audioSrc) {
         element.appendChild(audioTableElement);
     }
