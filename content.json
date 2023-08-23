@@ -55,7 +55,8 @@
     },
     {
         "actor": "Vợ chồng người anh",
-        "script": "Vâng không dám"
+        "script": "Vâng không dám",
+        "audioSrc": "./audio/quoc-ca-it.mp3"
     },
     {
         "actor": "Vợ người em",
