@@ -262,11 +262,19 @@
         "script": "May quá mình ạ, sẵn tiện em vừa được giới thiệu quyển 300 bài code thiếu nhi, mình cầm lấy mà luyện đi nhé."
     },
     {
+        "script": "Người em luyện tập",
+        "audioSrc": "./audio/nhac-phim-hoang-phi-hong.mp3"
+    },
+    {
         "actor": "Người dẫn truyện",
         "script": "Sau một thời gian ôn tập, chim thần lại đến ăn khế nhưng lần này chim thần đưa người em đi phỏng vấn tại Tokyo Tech Lab. Chim thần đưa người em tới phố Vũ Phạm Hàm nhưng không thấy công ty đâu."
     },
     {
-        "actor": "Người anh",
+        "script": "Chim thần đưa người em đi phỏng vấn",
+        "audioSrc": "./audio/nhac-phim-tay-du-ky.mp3"
+    },
+    {
+        "actor": "Chim thần",
         "script": "Ô lạ nhỉ, sao hôm nay không thấy công ty đó đâu nhỉ, trước ta đi ăn bún ngan ở gần đây thấy logo công ty to lắm mà"
     },
     {
