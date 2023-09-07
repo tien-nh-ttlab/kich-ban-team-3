@@ -1,5 +1,9 @@
 [
     {
+        "actor": "Người dẫn truyện",
+        "script": "Ngày xửa ngày xưa, tại một vùng quê nọ, có hai anh em, cha mẹ mất sớm, chỉ biết nương tựa nhau mà sống. Nhưng kể từ ngày có vợ, người anh lại thay đổi tính nết, đâm ra lười biếng, bao nhiêu công việc khó nhọc, đều trút cả cho hai vợ chồng người em. Hai vợ chồng người em thì lại thức khuya dậy sớm, chăm chỉ làm lụng. Nhưng người anh thì tham lam, muốn đuổi người em ra khỏi nhà nên bàn với vợ cho hai vợ chồng người em ra ở riêng."
+    },
+    {
         "header": "Cảnh 1: Vợ chồng người anh cúng bái phân chia tài sản"
     },
     {
@@ -23,10 +27,6 @@
         "script": "Thôiiiii xong rồi, mình hạ cỗ mà ăn thôi ông"
     },
     {
-        "actor": "Vợ người anh",
-        "script": "Thôiiiii xong rồi, mình hạ cỗ mà ăn thôi ông"
-    },
-    {
         "actor": "Người anh",
         "script": "Ô sờ kê bà nó, chén thôi chén thôi"
     },
@@ -39,15 +39,11 @@
     },
     {
         "actor": "Người dẫn truyện",
-        "script": "Hai vợ chồng đang ngồi ăn nhồm nhoàm thì...."
+        "script": "Hai vợ chồng đang ngồi ăn nhồm nhoàm thì.... Hai vợ chồng người em lấm lem bùn đất, quần ống cao ống thấp đi về."
     },
     {
         "actor": "Vợ người anh",
         "script": "Thôi chết rồi ông ơi, chúng nó về rồi. Dọn nhanh lên ông, cất kín kín vào"
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Hai vợ chồng người em lấm lem bùn đất, quần ống cao ống thấp đi về."
     },
     {
         "actor": "Vợ chồng người em",
@@ -238,7 +234,7 @@
         "script": "Xin ngài đừng ăn nữa ạ"
     },
     {
-        "actor": "Người anh",
+        "actor": "Chim thần",
         "script": "Ta ăn 1 quả khế, trả 1 job ngon, ngồi làm CV, ta đưa đi mà phỏng vấn"
     },
     {
@@ -246,7 +242,7 @@
         "script": "Thế chim thần sẽ đưa chúng con đến đâu ạ? "
     },
     {
-        "actor": "Người anh",
+        "actor": "Chim thần",
         "script": "Ta sẽ đưa ngươi đến Tokyo Tech Lab, ở đó đang tuyển Fullstack NodeJS developer này, Python developer này, IT Comtor, Tester , nghe đâu còn có cả Nhân viên Sale nữa"
     },
     {
@@ -254,7 +250,7 @@
         "script": "Hai vợ chồng con sinh năm 96 cơ khí bách khoa bách khoa cả đấy ạ, nhưng mà sợ không đáp ứng được nhu cầu, nên chúng con không dám đi phỏng vấn đâu ạ"
     },
     {
-        "actor": "Người anh",
+        "actor": "Chim thần",
         "script": "Hừm,  các ngươi cũng sống tử tế, đàng hoàng, ta ăn quả ta phải trả ơn chứ.  Đây ta cho mượn cái máy tính về luyện leetcode đi, sau đó ta đưa đi phỏng vấn."
     },
     {
@@ -264,6 +260,9 @@
     {
         "script": "Người em luyện tập",
         "audioSrc": "./audio/nhac-phim-hoang-phi-hong.mp3"
+    },
+    {
+        "script": "Cảnh 4: Chim thần đưa người em đi phỏng vấn"
     },
     {
         "actor": "Người dẫn truyện",
