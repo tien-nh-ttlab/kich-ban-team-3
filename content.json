@@ -1,497 +1,517 @@
 [
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Ngày xửa ngày xưa, tại một vùng quê nọ, có hai anh em, cha mẹ mất sớm, chỉ biết nương tựa nhau mà sống. Nhưng kể từ ngày có vợ, người anh lại thay đổi tính nết, đâm ra lười biếng, bao nhiêu công việc khó nhọc, đều trút cả cho hai vợ chồng người em. Hai vợ chồng người em thì lại thức khuya dậy sớm, chăm chỉ làm lụng. Nhưng người anh thì tham lam, muốn đuổi người em ra khỏi nhà nên bàn với vợ cho hai vợ chồng người em ra ở riêng."
-    },
-    {
-        "header": "Cảnh 1: Vợ chồng người anh cúng bái phân chia tài sản"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Con lạy cha lạy mẹ, từ khi cha mẹ mất đi anh em chúng con luôn đùm bọc yêu thương lẫn nhau. Con đã phải thay cha mẹ nuôi dưỡng em, con ăn miếng cơm thì cũng phải cho em ăn bát cháo, uống miếng nước"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Nay chúng con đã lo cho em yên bề gia thất, xin phép cha mẹ cho chúng con phân chia ruộng vườn để anh em chúng con dễ làm ăn buôn bán"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Dạ vâng, sau khi chia gia tài xong, anh em chúng con vẫn “tắt lửa tối đèn” có nhau ạ"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Tắt lửa tối đèn để có mà nuôi chúng nó mãi à. Ông để yên cho tôi khấn"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Thôiiiii xong rồi, mình hạ cỗ mà ăn thôi ông"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Ô sờ kê bà nó, chén thôi chén thôi"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Ăn nhanh lên, không chúng nó về bây giờ"
-    },
-    {
-        "header": "Cảnh 2: Vợ chồng người em đi làm đồng về"
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Hai vợ chồng đang ngồi ăn nhồm nhoàm thì.... Hai vợ chồng người em lấm lem bùn đất, quần ống cao ống thấp đi về."
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Thôi chết rồi ông ơi, chúng nó về rồi. Dọn nhanh lên ông, cất kín kín vào"
-    },
-    {
-        "actor": "Vợ chồng người em",
-        "script": "Vợ chồng em chào anh chị ạ !!!"
-    },
-    {
-        "actor": "Vợ chồng người anh",
-        "script": "Vâng không dám"
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Chúng em vừa đi ra đồng về ạ"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Biết rồi, không làm lấy gì mà ăn"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Hzzz....Năm nay tình hình kinh tế khó khăn, cứ thế này đến cám cũng chẳng có mà ăn"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Đúng rồi đấy, cơm nước chị mày nấu để dưới bếp kìa, chúng mày xuống đấy mà ăn"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Chết chết, nói thế thì chúng nó biết hết"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Ây chết, nãy anh chú nói nhầm thế nào, chị là cũng định làm cơm nước thịnh soạn chờ hai em đi đồng về đấy, mỗi tội lại quên mất không bật nồi cơm"
-    },
-    {
-        "actor": "Người em",
-        "script": "Dạ vâng không sao ạ, em cảm ơn anh chị đã có lòng chăm sóc ạ"
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Dạ, Chúng em cũng đã ăn mấy củ khoai ngoài ruộng cày rồi ạ"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Ái chà, chê cơm tôi nấu cơ đấy"
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Dạ, ấy chết, em không có ý đó thưa chị"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Thôi được rồi, không ăn thì ngồi xuống đây anh nói chuyện"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Vợ chồng chú cũng biết, kể từ khi cha mẹ mất đi, anh đã phải chăm sóc, chăm lo cho hai vợ chồng chú như thế nào. Thiết nghĩ bây giờ các em cũng có gia đình riêng, anh chị thấy hai đứa có thể ra ngoài ở riêng cho thoải mái. Phải không mẹ nó"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Đúng rồi hai cô chú ạ. Bây giờ 2 gia đình mà ở trong 1 ngôi nhà thì chật chội lắm, mà anh chị thì hay đau ốm "
-    },
-    {
-        "actor": "Người anh",
-        "script": "Anh chị tính thế này, ngôi nhà này anh chị sẽ ở để mà còn lo hương khói cho ông bà tổ tiên, vợ chồng cô chú thì dọn ra ngoài cho thoải mái"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Về đồ đạc trong nhà, chị tính thế này, anh chú là anh cả, tức là có chữ 'C'. Vị chi là tất cả những đồ đạc trong gia đình cứ có cái gì liên quan chữ 'C' thì anh chú lấy, còn lại là của hai vợ chồng cô chú hết"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Chưa hiểu đúng không, bây giờ anh ví dụ như này cho dễ hiểu nhớ. Cái ao kia có chứ 'C' không"
-    },
-    {
-        "actor": "Vợ chồng người em",
-        "script": "Có ạ"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Đấy, vậy cái ao là vợ chồng anh lấy"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Thế vườn cây này có chữ 'C' không?"
-    },
-    {
-        "actor": "Vợ chồng người em",
-        "script": "Cũng có ạ"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Ừ thế của anh chị luôn"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Thế còn con Macbook Pro M2 32GB RAM này thì chú biết như thế nào rồi chứ."
-    },
-    {
-        "actor": "Người em",
-        "script": "Anh cũng lấy nốt ạ??"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Chứ còn gì nữa, thằng này khá, đúng là em trai của ta."
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Cứ thế, phân chia hết tài sản đến nơi rồi mà cuối cùng hai vợ chồng người em vẫn chưa nhận được gì        "
-    },
-    {
-        "actor": "Người anh",
-        "script": "Bà nó ơi, Cây khế này mấy năm nay tôi thấy chưa đậu được quả nào, cái bếp nhỏ thì cứ mưa là dột hơn cả ngoài trời, lấy làm gì. Thôi thì cho chúng nó cũng được, không thì thiên hạ họ lại bảo vợ chồng mình tham"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "À đúng rồi cô chú ơi, anh chị thật ra thương cô chú lắm, bây giờ anh chị tiết lộ một bí mật thế này, năm ấy trước khi bố mẹ mất, có dặn lại là khu vườn này, chỉ có mỗi cái cây khế này là quý giá nhất. cho nên anh chị chỉ lấy mấy cái đồ lằng nhằng như con Macbook kia thôi. Còn để lại cho các em cây khế. Các em đói bụng thì hái khế xuống mà ăn, khỏi nấu nướng làm gì cho nó mắc mệt. "
-    },
-    {
-        "actor": "Người em",
-        "script": "Dạ vâng, anh chị đã nói vâỵ thì chúng em xin nghe ạ. Anh chị tốt với em quá."
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Biết điều thế là tốt, cô chú nhớ chăm sóc cây khế còi cọc kia nhé, biết đâu nó đơm hoa kết trái, cô chú lại được ăn khế thay cơm."
-    },
-    {
-        "actor": "Người anh",
-        "script": "Thôi xong việc rồi, mời cô chú về :))"
-    },
-    {
-        "script": "Cảnh 3: Vợ chồng người em chăm cây khế và gặp chim thần"
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Vậy là sau khi phân chia tài sản, vợ chồng người anh tham lam lấy hết của cải trong nhà, còn vợ chồng người em chỉ được chia cho cây khế với cái bếp dột. "
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Ông ơi mang cơm ra ăn thôi, cơm vẫn còn thơm phức đây nè "
-    },
-    {
-        "actor": "Người em",
-        "script": "Ôi tình nghĩa anh em, anh chị bảo lấy mỗi đồ lằng nhằng, vớ vẩn như căn nhà, cái vườn và cả con macbook nữa. Bây giờ trong tay chỉ còn mỗi cây khế với căn bếp, rồi sau này vợ chồng mình phải sống sao."
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Thôi mình ạ, phận làm em, bảo sao thì nghe vậy, bây giờ chỉ biết cố gắng nương tựa vào nhau mà sống thôi "
-    },
-    {
-        "actor": "Người em",
-        "script": " Đúng rồi bà nó à, hai vợ chồng mình phải bỏ công sức ra chăm sóc cây khế, rồi nó sẽ đơm hoa kết trái cho mà xem "
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Hai vợ chồng bắt đầu cần mẫn vun xới chăm sóc cho cây , tưới nước rồi ngắt bỏ những chiếc lá vàng lá úa Thời gian trôi qua…. ",
-        "audioSrc": "./audio/co-la.mp3"
-    },
-    {
-        "actor": "Người em ",
-        "script": "Ôi bà nói ơi nhìn kìa, năm nay cây khế nhà ta nhiều quả quá, quả nào quả nấy căng mướt cả. Mình hái mang ra chợ bán kiểu gì cũng có tiền đong gạo. "
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Mình nói phải đấy, để em hái mang ra chợ nhé."
-    },
-    {
-        "script": "Chim thần xuất hiện và bay lượn",
-        "audioSrc": "./audio/chim-keu.mp3"
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Ui khế ngoon khế ngoon hà hà"
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "Mà mình ơi, hình như có con chim lớn đâụ trên cành ăn khế của nhà mình kìa"
-    },
-    {
-        "actor": "Vợ chồng người em",
-        "script": "Ối Ngài chim thần ơi là chim thần, Xin thương xót 2 vợ chồng con, có mỗi một cây khế, chim thần ăn hết, vợ chồng chúng con biết sống sao."
-    },
-    {
-        "actor": "Người anh",
-        "script": "Năm nay ta đã hơn 70 tuổi rồi mà chưa thấy có cái cây khế nào lại ngon ngọt như cây này."
-    },
-    {
-        "actor": "Người em",
-        "script": "Xin ngài đừng ăn nữa ạ"
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Ta ăn 1 quả khế, trả 1 job ngon, ngồi làm CV, ta đưa đi mà phỏng vấn"
-    },
-    {
-        "actor": "Người em",
-        "script": "Thế chim thần sẽ đưa chúng con đến đâu ạ? "
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Ta sẽ đưa ngươi đến Tokyo Tech Lab, ở đó đang tuyển Fullstack NodeJS developer này, Python developer này, IT Comtor, Tester , nghe đâu còn có cả Nhân viên Sale nữa"
-    },
-    {
-        "actor": "Người em",
-        "script": "Hai vợ chồng con sinh năm 96 cơ khí bách khoa bách khoa cả đấy ạ, nhưng mà sợ không đáp ứng được nhu cầu, nên chúng con không dám đi phỏng vấn đâu ạ"
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Hừm,  các ngươi cũng sống tử tế, đàng hoàng, ta ăn quả ta phải trả ơn chứ.  Đây ta cho mượn cái máy tính về luyện leetcode đi, sau đó ta đưa đi phỏng vấn."
-    },
-    {
-        "actor": "Vợ người em",
-        "script": "May quá mình ạ, sẵn tiện em vừa được giới thiệu quyển 300 bài code thiếu nhi, mình cầm lấy mà luyện đi nhé."
-    },
-    {
-        "script": "Người em luyện tập",
-        "audioSrc": "./audio/nhac-phim-hoang-phi-hong.mp3"
-    },
-    {
-        "script": "Cảnh 4: Chim thần đưa người em đi phỏng vấn"
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Sau một thời gian ôn tập, chim thần lại đến ăn khế nhưng lần này chim thần đưa người em đi phỏng vấn tại Tokyo Tech Lab. Chim thần đưa người em tới phố Vũ Phạm Hàm nhưng không thấy công ty đâu."
-    },
-    {
-        "script": "Chim thần đưa người em đi phỏng vấn",
-        "audioSrc": "./audio/nhac-phim-tay-du-ky.mp3"
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Ô lạ nhỉ, sao hôm nay không thấy công ty đó đâu nhỉ, trước ta đi ăn bún ngan ở gần đây thấy logo công ty to lắm mà"
-    },
-    {
-        "actor": "Người em",
-        "script": "Thôi chết rồi, mình bị lừa rồi"
-    },
-    {
-        "script": "Chim thần gọi điện thoại cho chim TTLab",
-        "audioSrc": "./audio/nhac-chuong-iphone.mp3"
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Ờ, chú à, dạo này chú còn làm ở TTLab không, sao bây giờ anh qua Vũ Phạm Hàm không thấy công ty ở đây nữa"
-    },
-    {
-        "actor": "Chim TTLab",
-        "script": "À, công ty mới chuyển văn phòng mới ở Tố Hữu anh ơi, to đẹp rộng lắm, anh qua đây chơi mà xem."
-    },
-    {
-        "actor": "Chim thần",
-        "script": "À thế mà anh không biết, chú có đang ở công ty không, anh đèo ông bạn người quen sang phỏng vấn ấy mà."
-    },
-    {
-        "actor": "Chim TTLab",
-        "script": "Vâng vâng, thế anh qua luôn đi, đang hàng chờ phỏng vấn dài lắm đây này."
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Sau đó Chim thần đưa người em đến địa chỉ mới công ty."
-    },
-    {
-        "actor": "Người em ",
-        "script": "Quào, đẹp thế, có cả bàn bóng bàn nữa kìa, uây có cả máy chấm công bằng AI nữa kìa, xịn thế."
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Được chim thầm tạo điều kiện, người em thể hiện khả năng xuất sắc của mình và trúng tuyển tại TokyoTech Lab với mức lương khởi điểm là 3 nghìn đô"
-    },
-    {
-        "script": "Người em phỏng vána thành công và đi về nhà",
-        "audioSrc": "./audio/quoc-ca-it.mp3"
-    },
-    {
-        "script": "Tiếng lành đồn xa, người vợ nghe được tin vợ chồng người em ăn lên làm ra bèn về mách chồng"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Ông ông, biết gì chưa, thằng em ông, không biết nó phỏng vấn xin việc ở đâu, mà giờ nhận được việc lương 3000 đô, nghe đồn còn làm dự án với các doanh nghiệp từ nhật và châu âu nữa cơ đấy. Nó đã gọi khoe vs ông chưa."
-    },
-    {
-        "actor": "Người anh",
-        "script": "Chưa, nào có ai biết gì đâu, mà cớ sao mình phỏng vấn bao chỗ chưa được mà thằng này một phát ăn ngay nhỉ. Bà ra gọi nó sang đây tôi hỏi cho ra nhẽ xem nào."
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Người em vốn dĩ thật thà, tốt bụng khi thấy anh chị hỏi, cũng không giấu Người dẫn truyệnếm gì, kể lại ngọn ngành đầu đuôi câu chuyện."
-    },
-    {
-        "actor": "Người em ",
-        "script": "Đây, em cũng chẳng giấu gì anh chị, em nuôi cây khế rồi gặp được chim thần, chim thần giới thiệu cho job ngon vào cty tokyotechlab, em cũng đi pv rồi trúng tuyển, em cho anh mượn quyển 300 bài code thiếu nhi, anh cố gắng luyện tập, rồi bao giờ chim thần đến, em lại gọi anh đi phỏng vấn nhé"
-    },
-    {
-        "actor": "Người anh",
-        "script": "không biết nó có giới thiệu cho mình đi phỏng vấn thật không nhỉ?"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Chú tốt quá anh cảm ơn nhé, nhưng mà tính anh không thích nợ ơn của người khác. Thôi thì anh đổi tất cả nhà cửa của anh lấy quyển 300 bài code thiếu nhi với cái cây khế có được không"
-    },
-    {
-        "actor": "Người em",
-        "script": "Thế sao được, anh chị đang sống sung sướng, nhà cao cửa rộng, giờ còn mỗi cây khế sẽ khổ cực lắm đấy"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Không sao không sao, có khổ thế nào anh chị cũng chấp nhận"
-    },
-    {
-        "actor": "Người em",
-        "script": "Thôi thì anh đã nói thế, vì tình anh em cây khế, anh em mình đổi nhé."
-    },
-    {
-        "actor": "Người anh",
-        "script": "OK chú, chốt vậy đi"
-    },
-    {
-        "actor": "Người em",
-        "script": "Mời anh chị về"
-    },
-    {
-        "actor": "Người dẫn truyện",
-        "script": "Vợ chồng người anh sau khi đổi tài sản lấy cây khế, ngày ngày chỉ chực chờ chim thần đến mà không chịu luyện tập code .Cho đến một ngày nọ, chim thần lại đến ăn "
-    },
-    {
-        "actor": "Người anh",
-        "script": "Ô chim thần lại đến rồi bà nó ơi"
-    },
-    {
-        "actor": "Vợ người anh",
-        "script": "Đâu đâu ông nó"
-    },
-    {
-        "actor": "Vợ chồng người anh",
-        "script": "Con chim kia, nhà ngươi ăn khế nhà ta, khôn hồn thì trả ta cục vàng không thì đừng hòng thoát khỏi ta "
-    },
-    {
-        "actor": "Chim thần",
-        "script": "Tưởng chuyện gì, được rồi. Ta ăn 1 quả khế, trả 1 job ngon, ngồi làm CV, ta đưa đi mà phỏng vấn. Ngày 10\/9 bên Tokyo Tech Lab có mở đợt tuyển dụng, ta sẽ dẫn nhà ngươi đi "
-    },
-    {
-        "script": "Chim thần đưa người anh đi phỏng vấn",
-        "audioSrc": "./audio/xe-om-cua-cuc-phe.mp3"
-    },
-    {
-        "script": "Cảnh 06: Phỏng vấn tại Tokyo Tech Lab "
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Mời thí sinh : ....số báo danh không không trúng tiếp theo vào "
-    },
-    {
-        "actor": "Người anh",
-        "script": "Dạ em chào anh chị"
-    },
-    {
-        "actor": "Giám khảo 2",
-        "script": "Chào bạn, bạn có thể giới thiệu sơ qua về bản thân không ạ"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Dạ, em mời anh đọc trong CV ạ"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Vậy em hãy nói về những kinh nghiệm làm việc của em đi"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Em mời anh đọc trong CV ạ"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Khi đi làm nếu công ty nhiều việc thì em có sẵn sàng tăng ca không"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Giờ hành chính chưa chắc em còn đi đủ nữa là tăng ca "
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Em có tự tin về mảng toán học của bản thân không"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Thời đi học toán là môn tủ của em đấy anh"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Đố em biết khi nào thì 5 + 7 =1?"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Em ... em k biết ạ"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Khi 5 tháng + 7 tháng = 1 năm"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Vậy một câu hỏi khác đơn giản nhé. Khi nào 36 + 24 =1?"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Em ... em cũng k biết ạ"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Khi 36 phút + 24 phút = 1 Người anhg"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Haizz, vậy đây là 1 câu hỏi đơn giản để em có cơ hội gỡ điểm này. Em hãy chứng minh 4:3=2"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Ủa sao 4\/3 lại ra 2 được nhỉ, anh có nhầm không đó"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Em non quá, 4:3 có nghĩa là tứ chia tam, khi đọc ngược câu nói sẽ tám chia tư có nghĩa là 8:4=2"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Sao toàn đố mẹo mấy câu khó thế ạ a"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Thực ra thì em bị loại ngay từ đầu rồi em, bọn a trêu em cho vui thôi, em thiếu quá nhiều kĩ năng mà bọn a yêu cầu"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Hu hu, anh ơi, anh hãy cho em 1 cơ hội, em hứa sẽ chăm chỉ ạ. Vợ chồng nhà em đã phải đánh đổi mọi thứ, cả gia tài để em có cơ hội được đến đây ạ"
-    },
-    {
-        "actor": "Người anh",
-        "script": "Anh giúp em với ạ"
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "Thôi được rồi, trông chú khóc tội quá, em sẽ giới thiệu cho chú chỗ này."
-    },
-    {
-        "actor": "Giám khảo 1",
-        "script": "TTL academy đây, nếu chú muốn học thật sụ thì hãy đến chỗ này uy tín lắm, nghe đâu có cam kết việc làm luôn đấy"
-    },
-    {
-        "script": "Cả team ra hát",
-        "audioSrc": "./audio/duong-den-ngay-vinh-quang-beat.mp3"
-    }
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Ngày xửa ngày xưa, tại một vùng quê nọ, có hai anh em, cha mẹ mất sớm, chỉ biết nương tựa nhau mà sống. Nhưng kể từ ngày có vợ, người anh lại thay đổi tính nết, đâm ra lười biếng, bao nhiêu công việc khó nhọc, đều trút cả cho hai vợ chồng người em. Hai vợ chồng người em thì lại thức khuya dậy sớm, chăm chỉ làm lụng. Nhưng người anh thì tham lam, muốn đuổi người em ra khỏi nhà nên bàn với vợ cho hai vợ chồng người em ra ở riêng."
+  },
+  {
+    "header": "Cảnh 1: Vợ chồng người anh cúng bái phân chia tài sản"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Con lạy cha lạy mẹ, từ khi cha mẹ mất đi anh em chúng con luôn đùm bọc yêu thương lẫn nhau. Con đã phải thay cha mẹ nuôi dưỡng em, con ăn miếng cơm thì cũng phải cho em ăn bát cháo, uống miếng nước"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Nay chúng con đã lo cho em yên bề gia thất, xin phép cha mẹ cho chúng con phân chia ruộng vườn để anh em chúng con dễ làm ăn buôn bán"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Dạ vâng, sau khi chia gia tài xong, anh em chúng con vẫn “tắt lửa tối đèn” có nhau ạ"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Tắt lửa tối đèn để có mà nuôi chúng nó mãi à. Ông để yên cho tôi khấn"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Thôiiiii xong rồi, mình hạ cỗ mà ăn thôi ông"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Ô sờ kê bà nó, chén thôi chén thôi"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Ăn nhanh lên, không chúng nó về bây giờ"
+  },
+  {
+    "header": "Cảnh 2: Vợ chồng người em đi làm đồng về"
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Hai vợ chồng đang ngồi ăn nhồm nhoàm thì thấy hai vợ chồng người em lấm lem bùn đất, quần ống cao ống thấp đi về."
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Thôi chết rồi ông ơi, chúng nó về rồi. Dọn nhanh lên ông, cất kín kín vào"
+  },
+  {
+    "actor": "Vợ chồng người em",
+    "script": "Vợ chồng em chào anh chị ạ !!!"
+  },
+  {
+    "actor": "Vợ chồng người anh",
+    "script": "Vâng không dám"
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Chúng em vừa đi ra đồng về ạ"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Biết rồi, không làm lấy gì mà ăn"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Hzzz....Năm nay tình hình kinh tế khó khăn, cứ thế này đến cám cũng chẳng có mà ăn"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Đúng rồi đấy, cơm nước chị mày nấu để dưới bếp kìa, chúng mày xuống đấy mà ăn"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Chết chết, nói thế thì chúng nó biết hết"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Ây chết, nãy anh chú nói nhầm thế nào, chị là cũng định làm cơm nước thịnh soạn chờ hai em đi đồng về đấy, mỗi tội lại quên mất không bật nồi cơm"
+  },
+  {
+    "actor": "Người em",
+    "script": "Dạ vâng không sao ạ, em cảm ơn anh chị đã có lòng chăm sóc ạ"
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Dạ, Chúng em cũng đã ăn mấy củ khoai ngoài ruộng cày rồi ạ"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Ái chà, chê cơm tôi nấu cơ đấy"
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Dạ, ấy chết, em không có ý đó thưa chị"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Thôi được rồi, không ăn thì ngồi xuống đây anh nói chuyện"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Vợ chồng chú cũng biết, kể từ khi cha mẹ mất đi, anh đã phải chăm sóc, chăm lo cho hai vợ chồng chú như thế nào. Thiết nghĩ bây giờ các em cũng có gia đình riêng, anh chị thấy hai đứa có thể ra ngoài ở riêng cho thoải mái. Phải không mẹ nó"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Đúng rồi hai cô chú ạ. Bây giờ 2 gia đình mà ở trong 1 ngôi nhà thì chật chội lắm, mà anh chị thì hay đau ốm "
+  },
+  {
+    "actor": "Người anh",
+    "script": "Anh chị tính thế này, ngôi nhà này anh chị sẽ ở để mà còn lo hương khói cho ông bà tổ tiên, vợ chồng cô chú thì dọn ra ngoài cho thoải mái"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Về đồ đạc trong nhà, chị tính thế này, anh chú là anh cả, tức là có chữ 'C'. Vị chi là tất cả những đồ đạc trong gia đình cứ có cái gì liên quan chữ 'C' thì anh chú lấy, còn lại là của hai vợ chồng cô chú hết"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Chưa hiểu đúng không, bây giờ anh ví dụ như này cho dễ hiểu nhớ. Cái ao kia có chứ 'C' không"
+  },
+  {
+    "actor": "Vợ chồng người em",
+    "script": "Có ạ"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Đấy, vậy cái ao là vợ chồng anh lấy"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Thế vườn cây này có chữ 'C' không?"
+  },
+  {
+    "actor": "Vợ chồng người em",
+    "script": "Cũng có ạ"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Ừ thế của anh chị luôn"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Thế còn con Macbook Pro M2 32GB RAM này thì chú biết như thế nào rồi chứ."
+  },
+  {
+    "actor": "Người em",
+    "script": "Anh cũng lấy nốt ạ??"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Chứ còn gì nữa, thằng này khá, đúng là em trai của ta."
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Cứ thế, phân chia hết tài sản đến nơi rồi mà cuối cùng hai vợ chồng người em vẫn chưa nhận được gì        "
+  },
+  {
+    "actor": "Người anh",
+    "script": "Bà nó ơi, Cây khế này mấy năm nay tôi thấy chưa đậu được quả nào, cái bếp nhỏ thì cứ mưa là dột hơn cả ngoài trời, lấy làm gì. Thôi thì cho chúng nó cũng được, không thì thiên hạ họ lại bảo vợ chồng mình tham"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "À đúng rồi cô chú ơi, anh chị thật ra thương cô chú lắm, bây giờ anh chị tiết lộ một bí mật thế này, năm ấy trước khi bố mẹ mất, có dặn lại là khu vườn này, chỉ có mỗi cái cây khế này là quý giá nhất. cho nên anh chị chỉ lấy mấy cái đồ lằng nhằng như con Macbook kia thôi. Còn để lại cho các em cây khế. Các em đói bụng thì hái khế xuống mà ăn, khỏi nấu nướng làm gì cho nó mắc mệt. "
+  },
+  {
+    "actor": "Người em",
+    "script": "Dạ vâng, anh chị đã nói vâỵ thì chúng em xin nghe ạ. Anh chị tốt với em quá."
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Biết điều thế là tốt, cô chú nhớ chăm sóc cây khế còi cọc kia nhé, biết đâu nó đơm hoa kết trái, cô chú lại được ăn khế thay cơm."
+  },
+  {
+    "actor": "Người anh",
+    "script": "Thôi xong việc rồi, mời cô chú về :))"
+  },
+  {
+    "script": "Cảnh 3: Vợ chồng người em chăm cây khế và gặp chim thần"
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Vậy là sau khi phân chia tài sản, vợ chồng người anh tham lam lấy hết của cải trong nhà, còn vợ chồng người em chỉ được chia cho cây khế với cái bếp dột. "
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Ông ơi mang cơm ra ăn thôi, cơm vẫn còn thơm phức đây nè "
+  },
+  {
+    "actor": "Người em",
+    "script": "Ôi tình nghĩa anh em, anh chị bảo lấy mỗi đồ lằng nhằng, vớ vẩn như căn nhà, cái vườn và cả con macbook nữa. Bây giờ trong tay chỉ còn mỗi cây khế với căn bếp, rồi sau này vợ chồng mình phải sống sao."
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Thôi mình ạ, phận làm em, bảo sao thì nghe vậy, bây giờ chỉ biết cố gắng nương tựa vào nhau mà sống thôi "
+  },
+  {
+    "actor": "Người em",
+    "script": " Đúng rồi bà nó à, hai vợ chồng mình phải bỏ công sức ra chăm sóc cây khế, rồi nó sẽ đơm hoa kết trái cho mà xem "
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Hai vợ chồng bắt đầu cần mẫn vun xới chăm sóc cho cây , tưới nước rồi ngắt bỏ những chiếc lá vàng lá úa Thời gian trôi qua…. ",
+    "audioSrc": "./audio/co-la.mp3"
+  },
+  {
+    "actor": "Người em ",
+    "script": "Ôi bà nói ơi nhìn kìa, năm nay cây khế nhà ta nhiều quả quá, quả nào quả nấy căng mướt cả. Mình hái mang ra chợ bán kiểu gì cũng có tiền đong gạo. "
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Mình nói phải đấy, để em hái mang ra chợ nhé."
+  },
+  {
+    "script": "Chim thần xuất hiện và bay lượn",
+    "audioSrc": "./audio/chim-keu.mp3"
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Ui khế ngoon khế ngoon hà hà"
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "Mà mình ơi, hình như có con chim lớn đâụ trên cành ăn khế của nhà mình kìa"
+  },
+  {
+    "actor": "Vợ chồng người em",
+    "script": "Ối Ngài chim thần ơi là chim thần, Xin thương xót 2 vợ chồng con, có mỗi một cây khế, chim thần ăn hết, vợ chồng chúng con biết sống sao."
+  },
+  {
+    "actor": "Người anh",
+    "script": "Năm nay ta đã hơn 70 tuổi rồi mà chưa thấy có cái cây khế nào lại ngon ngọt như cây này."
+  },
+  {
+    "actor": "Người em",
+    "script": "Xin ngài đừng ăn nữa ạ"
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Ta ăn 1 quả khế, trả 1 job ngon, ngồi làm CV, ta đưa đi mà phỏng vấn"
+  },
+  {
+    "actor": "Người em",
+    "script": "Thế chim thần sẽ đưa chúng con đến đâu ạ? "
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Ta sẽ đưa ngươi đến Tokyo Tech Lab, ở đó đang tuyển Fullstack NodeJS developer này, Python developer này, IT Comtor, Tester , nghe đâu còn có cả Nhân viên Sale nữa"
+  },
+  {
+    "actor": "Người em",
+    "script": "Hai vợ chồng con sinh năm 96 cơ khí bách khoa bách khoa cả đấy ạ, nhưng mà sợ không đáp ứng được nhu cầu, nên chúng con không dám đi phỏng vấn đâu ạ"
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Hừm,  các ngươi cũng sống tử tế, đàng hoàng, ta ăn quả ta phải trả ơn chứ.  Đây ta cho mượn cái máy tính về luyện leetcode đi, sau đó ta đưa đi phỏng vấn."
+  },
+  {
+    "actor": "Vợ người em",
+    "script": "May quá mình ạ, sẵn tiện em vừa được giới thiệu quyển 300 bài code thiếu nhi, mình cầm lấy mà luyện đi nhé."
+  },
+  {
+    "script": "Người em luyện tập",
+    "audioSrc": "./audio/nhac-phim-hoang-phi-hong.mp3"
+  },
+  {
+    "script": "Cảnh 4: Chim thần đưa người em đi phỏng vấn"
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Sau một thời gian ôn tập, chim thần lại đến ăn khế nhưng lần này chim thần đưa người em đi phỏng vấn tại Tokyo Tech Lab. Chim thần đưa người em tới phố Vũ Phạm Hàm nhưng không thấy công ty đâu."
+  },
+  {
+    "script": "Chim thần lại xuất hiện",
+    "audioSrc": "./audio/chim-keu.mp3"
+  },
+  {
+    "script": "Chim thần đưa người em đi phỏng vấn",
+    "audioSrc": "./audio/nhac-phim-tay-du-ky.mp3"
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Ô lạ nhỉ, sao hôm nay không thấy công ty đó đâu nhỉ, trước ta đi ăn bún ngan ở gần đây thấy logo công ty to lắm mà"
+  },
+  {
+    "actor": "Người em",
+    "script": "Thôi chết rồi, mình bị lừa rồi"
+  },
+  {
+    "script": "Chim thần gọi điện thoại cho chim TTLab",
+    "audioSrc": "./audio/nhac-chuong-iphone.mp3"
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Ờ, chú à, dạo này chú còn làm ở TTLab không, sao bây giờ anh qua Vũ Phạm Hàm không thấy công ty ở đây nữa"
+  },
+  {
+    "actor": "Chim TTLab",
+    "script": "À, công ty mới chuyển văn phòng mới ở Tố Hữu anh ơi, to đẹp rộng lắm, anh qua đây chơi mà xem."
+  },
+  {
+    "actor": "Chim thần",
+    "script": "À thế mà anh không biết, chú có đang ở công ty không, anh đèo ông bạn người quen sang phỏng vấn ấy mà."
+  },
+  {
+    "actor": "Chim TTLab",
+    "script": "Vâng vâng, thế anh qua luôn đi, đang hàng chờ phỏng vấn dài lắm đây này."
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Sau đó Chim thần đưa người em đến địa chỉ mới công ty."
+  },
+  {
+    "actor": "Người em ",
+    "script": "Quào, đẹp thế, có cả bàn bóng bàn nữa kìa, uây có cả máy chấm công bằng AI nữa kìa, xịn thế."
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Được chim thầm tạo điều kiện, người em thể hiện khả năng xuất sắc của mình và trúng tuyển tại TokyoTech Lab với mức lương khởi điểm là 3 nghìn đô"
+  },
+  {
+    "script": "Người em phỏng vấn thành công và đi về nhà",
+    "audioSrc": "./audio/quoc-ca-it.mp3"
+  },
+  {
+    "script": "Tiếng lành đồn xa, người vợ nghe được tin vợ chồng người em ăn lên làm ra bèn về mách chồng"
+  },
+  {
+    "script": "Cảnh người anh hút thuốc lào",
+    "audioSrc": "./audio/tieng-thuoc-lao.mp3"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Hút thuốc lào nâng cao sĩ diện. Thơm mồm bổ phổi,diệt trùng lao. Nâng điếu lên như Triệu Tử cầm đao. Nhả khói ra như Khổng Minh gọi gió."
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Ông ông, biết gì chưa, thằng em ông, không biết nó phỏng vấn xin việc ở đâu, mà giờ nhận được việc lương 3000 đô, nghe đồn còn làm dự án với các doanh nghiệp từ nhật và châu âu nữa cơ đấy. Nó đã gọi khoe vs ông chưa."
+  },
+  {
+    "actor": "Người anh",
+    "script": "Chưa, nào có ai biết gì đâu, mà cớ sao mình phỏng vấn bao chỗ chưa được mà thằng này một phát ăn ngay nhỉ. Bà ra gọi nó sang đây tôi hỏi cho ra nhẽ xem nào."
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Người em vốn dĩ thật thà, tốt bụng khi thấy anh chị hỏi, cũng không giấu Người dẫn truyệnếm gì, kể lại ngọn ngành đầu đuôi câu chuyện."
+  },
+  {
+    "actor": "Người em ",
+    "script": "Đây, em cũng chẳng giấu gì anh chị, em nuôi cây khế rồi gặp được chim thần, chim thần giới thiệu cho job ngon vào cty tokyotechlab, em cũng đi pv rồi trúng tuyển, em cho anh mượn quyển 300 bài code thiếu nhi, anh cố gắng luyện tập, rồi bao giờ chim thần đến, em lại gọi anh đi phỏng vấn nhé"
+  },
+  {
+    "actor": "Người anh",
+    "script": "không biết nó có giới thiệu cho mình đi phỏng vấn thật không nhỉ?"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Chú tốt quá anh cảm ơn nhé, nhưng mà tính anh không thích nợ ơn của người khác. Thôi thì anh đổi tất cả nhà cửa của anh lấy quyển 300 bài code thiếu nhi với cái cây khế có được không"
+  },
+  {
+    "actor": "Người em",
+    "script": "Thế sao được, anh chị đang sống sung sướng, nhà cao cửa rộng, giờ còn mỗi cây khế sẽ khổ cực lắm đấy"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Không sao không sao, có khổ thế nào anh chị cũng chấp nhận"
+  },
+  {
+    "actor": "Người em",
+    "script": "Thôi thì anh đã nói thế, vì tình anh em cây khế, anh em mình đổi nhé."
+  },
+  {
+    "actor": "Người anh",
+    "script": "OK chú, chốt vậy đi"
+  },
+  {
+    "actor": "Người em",
+    "script": "Mời anh chị về"
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": "Vợ chồng người anh sau khi đổi tài sản lấy cây khế, ngày ngày chỉ chực chờ chim thần đến mà không chịu luyện tập code .Cho đến một ngày nọ, chim thần lại đến ăn "
+  },
+  {
+    "actor": "Chim thần xuất hiện và bay lượn",
+    "audioSrc": "./audio/chim-keu.mp3"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Ô chim thần lại đến rồi bà nó ơi"
+  },
+  {
+    "actor": "Vợ người anh",
+    "script": "Đâu đâu ông nó"
+  },
+  {
+    "actor": "Vợ chồng người anh",
+    "script": "Con chim kia, nhà ngươi ăn khế nhà ta, khôn hồn thì trả ta cục vàng không thì đừng hòng thoát khỏi ta "
+  },
+  {
+    "actor": "Chim thần",
+    "script": "Tưởng chuyện gì, được rồi. Ta ăn 1 quả khế, trả 1 job ngon, ngồi làm CV, ta đưa đi mà phỏng vấn. Ngày 10/9 bên Tokyo Tech Lab có mở đợt tuyển dụng, ta sẽ dẫn nhà ngươi đi "
+  },
+  {
+    "script": "Chim thần đưa người anh đi phỏng vấn",
+    "audioSrc": "./audio/xe-om-cua-cuc-phe.mp3"
+  },
+  {
+    "script": "Cảnh 06: Phỏng vấn tại Tokyo Tech Lab "
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Mời thí sinh : ....số báo danh không không trúng tiếp theo vào "
+  },
+  {
+    "actor": "Người anh",
+    "script": "Dạ em chào anh chị"
+  },
+  {
+    "actor": "Giám khảo 2",
+    "script": "Chào bạn, bạn có thể giới thiệu sơ qua về bản thân không ạ"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Dạ, em mời anh đọc trong CV ạ"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Vậy em hãy nói về những kinh nghiệm làm việc của em đi"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Em mời anh đọc trong CV ạ"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Khi đi làm nếu công ty nhiều việc thì em có sẵn sàng tăng ca không"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Giờ hành chính chưa chắc em còn đi đủ nữa là tăng ca "
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Em có tự tin về mảng toán học của bản thân không"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Thời đi học toán là môn tủ của em đấy anh"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Đố em biết khi nào thì 5 + 7 =1?"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Em ... em k biết ạ"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Khi 5 tháng + 7 tháng = 1 năm"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Vậy một câu hỏi khác đơn giản nhé. Khi nào 36 + 24 =1?"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Em ... em cũng k biết ạ"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Khi 36 phút + 24 phút = 1 Người anhg"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Haizz, vậy đây là 1 câu hỏi đơn giản để em có cơ hội gỡ điểm này. Em hãy chứng minh 4:3=2"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Ủa sao 4/3 lại ra 2 được nhỉ, anh có nhầm không đó"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Em non quá, 4:3 có nghĩa là tứ chia tam, khi đọc ngược câu nói sẽ tám chia tư có nghĩa là 8:4=2"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Sao toàn đố mẹo mấy câu khó thế ạ a"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Thực ra thì em bị loại ngay từ đầu rồi em, bọn a trêu em cho vui thôi, em thiếu quá nhiều kĩ năng mà bọn a yêu cầu"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Hu hu, anh ơi, anh hãy cho em 1 cơ hội, em hứa sẽ chăm chỉ ạ. Vợ chồng nhà em đã phải đánh đổi mọi thứ, cả gia tài để em có cơ hội được đến đây ạ"
+  },
+  {
+    "actor": "Người anh",
+    "script": "Anh giúp em với ạ"
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "Thôi được rồi, trông chú khóc tội quá, em sẽ giới thiệu cho chú chỗ này."
+  },
+  {
+    "actor": "Giám khảo 1",
+    "script": "TTL academy đây, nếu chú muốn học thật sụ thì hãy đến chỗ này uy tín lắm, nghe đâu có cam kết việc làm luôn đấy"
+  },
+  {
+    "script": "Cả team ra hát",
+    "audioSrc": "./audio/duong-den-ngay-vinh-quang-beat.mp3"
+  },
+  {
+    "actor": "Người dẫn truyện",
+    "script": " Vậy là nhờ học hành chăm chỉ và sự hỗ trợ từ Học viện Tokyo Tech Lab, người anh cuối cùng cũng đã tìm được công việc ổn định, mức thu nhập tốt. Cuộc sống đã tốt đẹp hơn với gia đình anh em nhà này "
+  }
 ]
