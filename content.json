@@ -1,7 +1,7 @@
 [
   {
     "actor": "Người dẫn truyện",
-    "script": "Ngày xửa ngày xưa, tại một vùng quê nọ, có hai anh em, cha mẹ mất sớm, chỉ biết nương tựa nhau mà sống. Nhưng kể từ ngày có vợ, người anh lại thay đổi tính nết, đâm ra lười biếng, bao nhiêu công việc khó nhọc, đều trút cả cho hai vợ chồng người em. Hai vợ chồng người em thì lại thức khuya dậy sớm, chăm chỉ làm lụng. Nhưng người anh thì tham lam, muốn đuổi người em ra khỏi nhà nên bàn với vợ cho hai vợ chồng người em ra ở riêng."
+    "script": "Ngày xửa ngày xưa, tại một vùng quê nọ, có hai anh em, cha mẹ mất sớm, chỉ biết nương tựa nhau mà sống."
   },
   {
     "header": "Cảnh 1: Vợ chồng người anh cúng bái phân chia tài sản"
@@ -62,38 +62,6 @@
     "script": "Biết rồi, không làm lấy gì mà ăn"
   },
   {
-    "actor": "Vợ người anh",
-    "script": "Hzzz....Năm nay tình hình kinh tế khó khăn, cứ thế này đến cám cũng chẳng có mà ăn"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Đúng rồi đấy, cơm nước chị mày nấu để dưới bếp kìa, chúng mày xuống đấy mà ăn"
-  },
-  {
-    "actor": "Vợ người anh",
-    "script": "Chết chết, nói thế thì chúng nó biết hết"
-  },
-  {
-    "actor": "Vợ người anh",
-    "script": "Ây chết, nãy anh chú nói nhầm thế nào, chị là cũng định làm cơm nước thịnh soạn chờ hai em đi đồng về đấy, mỗi tội lại quên mất không bật nồi cơm"
-  },
-  {
-    "actor": "Người em",
-    "script": "Dạ vâng không sao ạ, em cảm ơn anh chị đã có lòng chăm sóc ạ"
-  },
-  {
-    "actor": "Vợ người em",
-    "script": "Dạ, Chúng em cũng đã ăn mấy củ khoai ngoài ruộng cày rồi ạ"
-  },
-  {
-    "actor": "Vợ người anh",
-    "script": "Ái chà, chê cơm tôi nấu cơ đấy"
-  },
-  {
-    "actor": "Vợ người em",
-    "script": "Dạ, ấy chết, em không có ý đó thưa chị"
-  },
-  {
     "actor": "Người anh",
     "script": "Thôi được rồi, không ăn thì ngồi xuống đây anh nói chuyện"
   },
@@ -114,28 +82,12 @@
     "script": "Về đồ đạc trong nhà, chị tính thế này, anh chú là anh cả, tức là có chữ 'C'. Vị chi là tất cả những đồ đạc trong gia đình cứ có cái gì liên quan chữ 'C' thì anh chú lấy, còn lại là của hai vợ chồng cô chú hết"
   },
   {
-    "actor": "Người anh",
+    "actor": "Vợ người anh",
     "script": "Chưa hiểu đúng không, bây giờ anh ví dụ như này cho dễ hiểu nhớ. Cái ao kia có chứ 'C' không"
   },
   {
     "actor": "Vợ chồng người em",
     "script": "Có ạ"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Đấy, vậy cái ao là vợ chồng anh lấy"
-  },
-  {
-    "actor": "Vợ người anh",
-    "script": "Thế vườn cây này có chữ 'C' không?"
-  },
-  {
-    "actor": "Vợ chồng người em",
-    "script": "Cũng có ạ"
-  },
-  {
-    "actor": "Vợ người anh",
-    "script": "Ừ thế của anh chị luôn"
   },
   {
     "actor": "Người anh",
@@ -154,10 +106,6 @@
     "script": "Cứ thế, phân chia hết tài sản đến nơi rồi mà cuối cùng hai vợ chồng người em vẫn chưa nhận được gì        "
   },
   {
-    "actor": "Người anh",
-    "script": "Bà nó ơi, Cây khế này mấy năm nay tôi thấy chưa đậu được quả nào, cái bếp nhỏ thì cứ mưa là dột hơn cả ngoài trời, lấy làm gì. Thôi thì cho chúng nó cũng được, không thì thiên hạ họ lại bảo vợ chồng mình tham"
-  },
-  {
     "actor": "Vợ người anh",
     "script": "À đúng rồi cô chú ơi, anh chị thật ra thương cô chú lắm, bây giờ anh chị tiết lộ một bí mật thế này, năm ấy trước khi bố mẹ mất, có dặn lại là khu vườn này, chỉ có mỗi cái cây khế này là quý giá nhất. cho nên anh chị chỉ lấy mấy cái đồ lằng nhằng như con Macbook kia thôi. Còn để lại cho các em cây khế. Các em đói bụng thì hái khế xuống mà ăn, khỏi nấu nướng làm gì cho nó mắc mệt. "
   },
@@ -172,29 +120,6 @@
   {
     "actor": "Người anh",
     "script": "Thôi xong việc rồi, mời cô chú về :))"
-  },
-  {
-    "script": "Cảnh 3: Vợ chồng người em chăm cây khế và gặp chim thần"
-  },
-  {
-    "actor": "Người dẫn truyện",
-    "script": "Vậy là sau khi phân chia tài sản, vợ chồng người anh tham lam lấy hết của cải trong nhà, còn vợ chồng người em chỉ được chia cho cây khế với cái bếp dột. "
-  },
-  {
-    "actor": "Vợ người em",
-    "script": "Ông ơi mang cơm ra ăn thôi, cơm vẫn còn thơm phức đây nè "
-  },
-  {
-    "actor": "Người em",
-    "script": "Ôi tình nghĩa anh em, anh chị bảo lấy mỗi đồ lằng nhằng, vớ vẩn như căn nhà, cái vườn và cả con macbook nữa. Bây giờ trong tay chỉ còn mỗi cây khế với căn bếp, rồi sau này vợ chồng mình phải sống sao."
-  },
-  {
-    "actor": "Vợ người em",
-    "script": "Thôi mình ạ, phận làm em, bảo sao thì nghe vậy, bây giờ chỉ biết cố gắng nương tựa vào nhau mà sống thôi "
-  },
-  {
-    "actor": "Người em",
-    "script": " Đúng rồi bà nó à, hai vợ chồng mình phải bỏ công sức ra chăm sóc cây khế, rồi nó sẽ đơm hoa kết trái cho mà xem "
   },
   {
     "actor": "Người dẫn truyện",
@@ -424,67 +349,11 @@
   },
   {
     "actor": "Giám khảo 1",
-    "script": "Vậy em hãy nói về những kinh nghiệm làm việc của em đi"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Em mời anh đọc trong CV ạ"
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Khi đi làm nếu công ty nhiều việc thì em có sẵn sàng tăng ca không"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Giờ hành chính chưa chắc em còn đi đủ nữa là tăng ca "
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Em có tự tin về mảng toán học của bản thân không"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Thời đi học toán là môn tủ của em đấy anh"
-  },
-  {
-    "actor": "Giám khảo 1",
     "script": "Đố em biết khi nào thì 5 + 7 =1?"
   },
   {
     "actor": "Người anh",
     "script": "Em ... em k biết ạ"
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Khi 5 tháng + 7 tháng = 1 năm"
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Vậy một câu hỏi khác đơn giản nhé. Khi nào 36 + 24 =1?"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Em ... em cũng k biết ạ"
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Khi 36 phút + 24 phút = 1 Người anhg"
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Haizz, vậy đây là 1 câu hỏi đơn giản để em có cơ hội gỡ điểm này. Em hãy chứng minh 4:3=2"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Ủa sao 4/3 lại ra 2 được nhỉ, anh có nhầm không đó"
-  },
-  {
-    "actor": "Giám khảo 1",
-    "script": "Em non quá, 4:3 có nghĩa là tứ chia tam, khi đọc ngược câu nói sẽ tám chia tư có nghĩa là 8:4=2"
-  },
-  {
-    "actor": "Người anh",
-    "script": "Sao toàn đố mẹo mấy câu khó thế ạ a"
   },
   {
     "actor": "Giám khảo 1",
@@ -508,7 +377,7 @@
   },
   {
     "script": "Cả team ra hát",
-    "audioSrc": "./audio/duong-den-ngay-vinh-quang-beat.mp3"
+    "audioSrc": "./audio/duong-den-ngay-vinh-quang.mp3"
   },
   {
     "actor": "Người dẫn truyện",
